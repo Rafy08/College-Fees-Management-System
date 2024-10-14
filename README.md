@@ -4,7 +4,7 @@ This is a College Fees Management System built using Streamlit as the frontend a
 The system allows you to:
 
 Add student fee details: Add the total fees, amount paid, and calculate the pending balance for students.
-'
+
 View student fee details: Search for a student's fee details using their student ID.
 
 # Features
