@@ -22,7 +22,7 @@ All fee details are stored in a MongoDB database.
 Search for a student’s fee details using their student ID.
 View the student's name, total fees, amount paid, and pending fees.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/167b8754-3b74-4091-8608-c115747275a9)
 
 
 
